@@ -1,0 +1,26 @@
+
+
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+/* .content{
+    color: white;
+    font-size: 8px;
+     padding-top: 50px;
+     padding-left: 50px; 
+} */
+.Information{
+    color: white;
+    list-style: none;
+    padding-top: 3px;
+    padding-left: 72px;
+    font-size: 16px;
+    
+
+}
+.Information :hover{
+    color: orange;
+}
