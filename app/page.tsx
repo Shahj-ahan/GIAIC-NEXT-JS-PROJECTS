@@ -1,15 +1,30 @@
+import Header  from "./components/Header/Header"
+import Footer  from "./components/Header/Footer";
+import React from 'react';
 
-
-
-import React from 'react'
-
-function page() {
+const Home = () => {
   return (
-    <div className=''>
-        
-        <h1 className='bg-primary'>Hello Wolrd</h1>
-    </div>
-  )
-}
+    <div>
+        <Header />
+      
+        <div className="hero">
+        <div className="content">
+          <h1 className="title">Welcome to Auction Table</h1>
+          <p className="subtitle">
+            Buy, sell, and discover amazing deals in one place.
+          </p>
+          <a href="#" className="ctaButton">
+            Get Started
+          </a>
+        </div>
+      </div>
 
-export default page;
+                <Footer></Footer>
+    </div>
+
+
+                
+  );
+};
+
+export default Home;
