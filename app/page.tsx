@@ -1,10 +1,13 @@
 import Header  from "./components/Header/Header"
 import Footer  from "./components/Header/Footer";
+import portfolio from "./My/portfolio";
 import React from 'react';
+
 
 const Home = () => {
   return (
     <div>
+      
         <Header />
       
         <div className="hero">

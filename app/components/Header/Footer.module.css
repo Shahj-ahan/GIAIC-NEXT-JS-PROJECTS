@@ -1,10 +1,10 @@
 
 .footer {
-  margin-top: 1%;
     background-color: #252424;
     color: #fff;
     padding: 20px;
     text-align: left;
+    font-size: 10px;
   }
   
   .footerContent {

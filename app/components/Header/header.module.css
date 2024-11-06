@@ -24,14 +24,14 @@
   
   .Nav li a {
     text-decoration: none;
-    color: #f1c80e;
+    color: rgba(206, 206, 206, 0.336);
     font-size: 18px;
     font-weight: bold;
     transition: color 0.3s;
   }
   
   .Nav li a:hover {
-    color: #f1c80e;
+    color: rgba(206, 206, 206, 0.336);
     cursor: pointer;
   }
   
