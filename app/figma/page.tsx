@@ -5,7 +5,7 @@ import React from 'react'
 function page() {
   return (
     <div>
-        <div style={{backgroundColor:"#A29875"}} className='text-white font-Algerian text-2xl h-134'>
+        <div style={{backgroundColor:"#A29875"}} className='text-white font-Algerian text-2xl h-134 px-2'>
             MANZZARI
         </div>
         <div className='flex '>
