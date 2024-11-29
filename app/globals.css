@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 
+
+
 .hero {
     height: 100vh;
     display: flex;
@@ -43,7 +45,6 @@
     line-height: 1.5;
   }
   
-  /* Call-to-Action Button */
   .ctaButton {
     padding: 8px 15px;
     background-color: black;
@@ -61,4 +62,6 @@
     color: rgb(15, 15, 15);
   }
   
-  
+   
+
+   
