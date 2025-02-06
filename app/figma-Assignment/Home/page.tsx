@@ -1,17 +1,12 @@
-import Navbar from '../second-figma-Assignment-components/Navbar/Navbar';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaStar } from 'react-icons/fa';
-import { FaArrowRight } from 'react-icons/fa';
-import { FaArrowLeft } from 'react-icons/fa';
-
-
-
 import { FaLinkedin, FaFacebook, FaGithub, FaYoutube, FaInstagram, FaTwitter } from 'react-icons/fa';
 import { FaGlobe } from "react-icons/fa";
+import Navbar from '../../components/Navbar/page';
 
 
 function FigmaProject() {

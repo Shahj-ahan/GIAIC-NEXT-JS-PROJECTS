@@ -1,5 +1,6 @@
-import Header  from "./components/Header/Header"
-import Footer  from "./components/Footer";
+'use client'
+import Footer from "../components/Footer/page";
+import Header from "../components/Header/page";
 import React from 'react';
 
 
@@ -20,8 +21,7 @@ const Home = () => {
           </a>
         </div>
       </div>
-
-                <Footer></Footer>
+        <Footer/>
     </div>
 
 
